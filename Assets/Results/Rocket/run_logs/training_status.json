@@ -1,0 +1,110 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 919,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-919.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203815.6193836,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-919.pt"
+                ]
+            },
+            {
+                "steps": 929,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-929.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203815.9884973,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-929.pt"
+                ]
+            },
+            {
+                "steps": 939,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-939.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203816.3265283,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-939.pt"
+                ]
+            },
+            {
+                "steps": 949,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-949.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203816.6576293,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-949.pt"
+                ]
+            },
+            {
+                "steps": 959,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-959.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203816.9817119,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-959.pt"
+                ]
+            },
+            {
+                "steps": 969,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-969.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203817.3173869,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-969.pt"
+                ]
+            },
+            {
+                "steps": 979,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-979.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203817.6343813,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-979.pt"
+                ]
+            },
+            {
+                "steps": 989,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-989.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203817.9547632,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-989.pt"
+                ]
+            },
+            {
+                "steps": 999,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-999.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203818.2636435,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-999.pt"
+                ]
+            },
+            {
+                "steps": 1001,
+                "file_path": "results\\Rocket\\My Behavior\\My Behavior-1001.onnx",
+                "reward": 0.0,
+                "creation_time": 1639203818.3744059,
+                "auxillary_file_paths": [
+                    "results\\Rocket\\My Behavior\\My Behavior-1001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1001,
+            "file_path": "results\\Rocket\\My Behavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1639203818.3744059,
+            "auxillary_file_paths": [
+                "results\\Rocket\\My Behavior\\My Behavior-1001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.2+cpu"
+    }
+}
