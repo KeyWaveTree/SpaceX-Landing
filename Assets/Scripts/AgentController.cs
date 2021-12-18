@@ -40,7 +40,8 @@ public class AgentController : Agent
 
     /*AI가 나의 상태를 받아가서 내가 어떤 행동을 한다는 것을 알려줌*/
     public override void OnActionReceived(ActionBuffers actions)
-    {
+    //행동의 주체 (결과 값이랑 햇갈리지 말고)
+    { 
         if (actions.DiscreteActions[0] == 1)
         {
             rocketController.OnEngine();

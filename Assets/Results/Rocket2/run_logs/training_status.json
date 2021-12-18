@@ -1,0 +1,110 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 441,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-441.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817370.063558,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-441.pt"
+                ]
+            },
+            {
+                "steps": 457,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-457.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817370.627973,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-457.pt"
+                ]
+            },
+            {
+                "steps": 467,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-467.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817371.0553114,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-467.pt"
+                ]
+            },
+            {
+                "steps": 477,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-477.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817371.420873,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-477.pt"
+                ]
+            },
+            {
+                "steps": 484,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-484.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817371.8756912,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-484.pt"
+                ]
+            },
+            {
+                "steps": 494,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-494.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817372.3585923,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-494.pt"
+                ]
+            },
+            {
+                "steps": 504,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-504.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817372.9275742,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-504.pt"
+                ]
+            },
+            {
+                "steps": 514,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-514.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817373.380674,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-514.pt"
+                ]
+            },
+            {
+                "steps": 524,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-524.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817373.847614,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-524.pt"
+                ]
+            },
+            {
+                "steps": 534,
+                "file_path": "results\\Rocket2\\My Behavior\\My Behavior-534.onnx",
+                "reward": 0.0,
+                "creation_time": 1639817374.310011,
+                "auxillary_file_paths": [
+                    "results\\Rocket2\\My Behavior\\My Behavior-534.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 534,
+            "file_path": "results\\Rocket2\\My Behavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1639817374.310011,
+            "auxillary_file_paths": [
+                "results\\Rocket2\\My Behavior\\My Behavior-534.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.2+cpu"
+    }
+}
